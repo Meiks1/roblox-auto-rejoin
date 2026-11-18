@@ -5,7 +5,7 @@ A simple Lua script that automatically rejoins a Roblox game after a disconnect 
 ## Usage
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/roblox-auto-rejoin/main/autorejoin.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Meiks1/roblox-auto-rejoin/main/autorejoin.lua"))()
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username (also in `SCRIPT_URL` inside `autorejoin.lua`).
