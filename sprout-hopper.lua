@@ -23,7 +23,7 @@ local CONFIG = {
     HOVER_HEIGHT = 3,            -- studs above the sprout to stand
 }
 
-local SCRIPT_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/roblox-auto-rejoin/main/sprout-hopper.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/Meiks1/roblox-auto-rejoin/main/sprout-hopper.lua"
 local VISITED_FILE = "sprout_hopper_visited.json"
 
 -- ===== helpers =====
